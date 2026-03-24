@@ -95,4 +95,3 @@ Theorem: If L is CF, ∃ p ≥ 1 such that for every s ∈ L with |s| ≥ p, s =
 
 ---
 
-Built for Theory of Computation — Class Participation Project
