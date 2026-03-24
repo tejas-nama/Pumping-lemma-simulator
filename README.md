@@ -92,17 +92,6 @@ Theorem: If L is CF, ∃ p ≥ 1 such that for every s ∈ L with |s| ≥ p, s =
 - |vxy| ≤ p
 - ∀ i ≥ 0 : uvⁱxyⁱz ∈ L
 
----
-
-## 📝 Academic Context
-
-Built as a class participation assignment for the Theory of Computation course. The goal was to simulate a core ToC concept interactively.
-
----
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
 
 ---
 
