@@ -7,6 +7,7 @@ An interactive, step-by-step visual proof tool for the Pumping Lemma — one of 
 ## 🔗 Live Demo
 
 -[pumping-lemma-visualizer.vercel.app](https://pumping-lemma-simulator.vercel.app/)
+
 -[demo vidoe](https://www.youtube.com/watch?v=l5Ld0kwg5d4)
 
 ---
