@@ -51,33 +51,6 @@ This tool walks you through a complete formal proof that a given language is not
 
 ---
 
-## 🚀 Getting Started
-
-No installation required. Just open the file in a browser:
-
-git clone https://github.com/your-username/pumping-lemma-visualizer.git
-cd pumping-lemma-visualizer
-open index.html
-
-### File structure
-
-pumping-lemma-visualizer/
-├── index.html    ← HTML structure + all CSS styles
-├── app.js        ← all logic, language definitions, rendering
-└── README.md
-
----
-
-## 🛠️ Deploy to Vercel
-
-1. Push this repo to GitHub
-2. Go to vercel.com/new
-3. Import your GitHub repository
-4. Click Deploy — Vercel auto-detects it as a static site
-5. Every git push will auto-redeploy
-
----
-
 ## 🧩 Concepts Covered
 
 - Regular languages and closure properties
